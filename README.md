@@ -24,38 +24,39 @@
 ## Mission 2 :
 
 - le programme calcule le temps entre le lancement et la fin de celui ci
-- [temps obtenu] seconde
-- [temps obtenu] millisecondes
+- 0,000056 seconde
+- 0,056 milliseconde
 
 ## Mission 3&4 :
 
 - le programme génère un code pin aléatoire entre 0 et 9999
 - la boucle while teste les nombres jusqu'à trouver le bon code
-- [temps obtenu] seconde
+- code trouvé : 9838
+- 0,004332 seconde
 
 ## Mission 5 :
 
-- [temps obtenu] avec une pause de 5 millisecondes
-- la temporisation rend plus lente la trouvaille du code pin
-- plus on augmente la temporisation plus l'attaque prend du temps
-
+- code trouvé : 3530
+- 18,0158 secondes avec une pause de 5 millisecondes
+- ça rend plus lente la trouvaille du code pin
 
 # Python
 
 ## Mission 2 :
 
 - le programme calcule le temps entre le lancement et la fin de celui ci
-- [temps obtenu] seconde
-- [temps obtenu] millisecondes
+- 0,00000429 seconde
+- 0,00429 milliseconde
 
 ## Mission 3&4 :
 
 - le programme génère un code pin aléatoire entre 0 et 9999
 - la boucle while essaye les codes un par un jusqu'à trouver le bon
-- [temps obtenu] seconde
+- code trouvé : 4935
+- 0,002079 seconde
 
 ## Mission 5 :
 
-- [temps obtenu] avec une pause de 5 millisecondes
+- code trouvé : 1286
+- 6,5556 secondes avec une pause de 5 millisecondes
 - ça rend plus lente la trouvaille du code pin
-- la temporisation permet de ralentir une attaque par force brute

@@ -6,7 +6,9 @@
 
 # Mission 3&4
 
-- ![[Pasted image 20260915144910.png]]
+- <p align="center">
+    <img src="./Pasted-image-20260908092248.png" width="100%">
+  </p>
 - 0,0941321 seconde
 
 # Mission 5 :
